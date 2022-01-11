@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to XCHe's GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/xchehub/xcsite/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
